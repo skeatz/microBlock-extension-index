@@ -357,7 +357,7 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#27AE60",
-    "github": "https://github.com/microBlock-IDE/LCDI2C-extension"
+    "github": "https://github.com/skeatz/LCDI2C-extension"
   },
   "ioxhop_DotMatrix-extension": {
     "name": "Dot Matrix",
